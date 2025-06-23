@@ -9,5 +9,6 @@ dist/
 build/
 
 # Datasets
-raw data/
-*csv
+"raw_data/"
+*.csv
+**/*.csv
